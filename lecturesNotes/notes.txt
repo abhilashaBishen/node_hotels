@@ -1,6 +1,0 @@
-//restapi.js class
-
-
-localhost refers to your own computer.
-     //hum systme(ghar=localhost) bana rahe hai waiter ke liye (waiter = server)
-     port no = room noumber. we will alloct to waiter.
