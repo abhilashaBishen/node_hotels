@@ -10,6 +10,8 @@ router.post('/',async (req,res)=>{
     try {
         const data = req.body;
 
+        console.log(data)
+
         const newMenuItem = new MenuItem(data);
 
         const response = await  newMenuItem.save();

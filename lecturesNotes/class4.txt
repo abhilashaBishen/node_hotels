@@ -1,0 +1,13 @@
+web developement = client+server+database;
+database has own server,it own according toits need
+
+
+Node.js server is responsible for Handlikng HTTP request
+
+
+//mongodb already provide us server(previously made server) we don't have to make our own server by ourselves like backend server(nodejs+express.js)
+
+//database ka apna server hota hai.
+ //and you have habit to not done the task you have taken completedd leave it uncompleted 
+ which is quite good thats why you arehere with nothingin your hand empty hand and still you are not learing an;y lession what i can say about this I don't know
+ 
